@@ -1,21 +1,3 @@
----
-license: mit
-language:
-- en
-tags:
-- gan
-- mnist
-- 7gen
-- pytorch
-library_name: torch
-model_type: image-generator
----
-
-![7Gen Model](https://img.shields.io/badge/7Gen-MNIST_Generator-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg?style=for-the-badge&logo=pytorch)
-![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
-
 # 7Gen - Advanced MNIST Digit Generation System
 
 **State-of-the-art Conditional GAN for MNIST digit synthesis with self-attention mechanisms.**
